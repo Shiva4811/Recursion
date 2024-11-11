@@ -1,3 +1,5 @@
+//Ques. Find the no. of ways to reach nth stairs if 1 or 2 jumps at a time is allowed.
+
 import java.util.Scanner;
 public class StairPath {
     public static int stairs(int n){
